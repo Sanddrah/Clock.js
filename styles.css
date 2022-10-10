@@ -1,0 +1,19 @@
+body{
+    height: 100%;
+    color: white;
+}
+
+.container{
+    background-color: black;
+    margin: 50px auto;
+    width: 400px;
+    height: 200px;
+    min-width: 100%;
+}
+
+#myClock{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 70px;
+    color: aqua;
+}
